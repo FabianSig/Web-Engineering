@@ -69,6 +69,13 @@ body {
     color: white;
 }
 
+.is-featured:hover{
+    background-color: #6f9fd7;
+}
+
+.pricing-button:hover{
+    background-color: #b7cfeb;
+}
 
 li {
     list-style: none;
