@@ -1,5 +1,3 @@
-var accesstoken = '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'
-
 function getRepos(){
 
     console.log()
