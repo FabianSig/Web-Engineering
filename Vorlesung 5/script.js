@@ -1,6 +1,6 @@
 function getRepos(){
 
-    console.log()
+    document.getElementById("repos-list").innerHTML = "";
     
     fetch(`https://api.github.com/user/repos`, {
         headers: {
